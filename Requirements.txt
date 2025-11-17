@@ -1,0 +1,17 @@
+# Core Libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+tensorflow
+
+# Utilities
+joblib
